@@ -1,6 +1,8 @@
 # ESP32-social-tracker-with-2.4inch-TFT
 ESP32 social media tracker for Facebook, Instagram and Youtube with 2.4 inch touchscreen ILI9341
 
+![My image](https://i.pinimg.com/564x/5d/10/40/5d1040267a2923ab269fd2b01193e2ec.jpg)
+
 ## Website
 
 You can find the latest version of the code and the description of the hardware at
